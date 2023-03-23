@@ -15,5 +15,7 @@ csv和png文件夹存放文本与图像
 #### 使用说明
 
 1.安装python3.6
+
 2.安装python-docx、openpyxl三方库
+
 3.python运行create_report.py
